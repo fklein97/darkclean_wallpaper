@@ -1,9 +1,9 @@
-html {
+body {
     color: #cfcfcf;
     background-color: #212121;
 }
 
 .content {
-    margin: 100px;
+    padding: 100px;
 
 }
